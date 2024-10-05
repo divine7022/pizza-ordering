@@ -24,6 +24,7 @@ This project is a web application built using React, showcasing the use of React
 1. Clone the repository:
    ```bash
    git clone https://github.com/divine7022/pizza-ordering.git
+   
 2. Install dependencies:
    ```bash
    npm install
@@ -35,4 +36,9 @@ To run the application locally, execute the following command:
 
 This will start the development server, and you can access the application at `http://localhost:5173/`
 
+## Acknowledgements 🎉 
+- [React](https://legacy.reactjs.org/docs/getting-started.html)
+- [Redux Toolkit](https://redux-toolkit.js.org/)
+- [React Router](https://reactrouter.com/en/main)
+- [Tailwind CSS](https://tailwindcss.com/)
 
