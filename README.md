@@ -1,10 +1,14 @@
-# React Project
+# React Project - 🍕 Pizza Ordering Application.
 
-## Description
+## 🚀 Live Demo
+
+You can check out the live demo [here](https://pizza-ordering-sigma.vercel.app/) 👈
+
+## 📝 Description
 
 This project is a web application built using React, showcasing the use of React Router for navigation, Redux and Redux Toolkit for state management, and Tailwind CSS for styling. It features functionalities for managing a cart, menu, orders, and user profiles.
 
-## Features
+## 🌟 Features
 
 - **React Router**: Dynamic navigation between pages.
 - **Redux Toolkit**: Efficient state management across the application.
@@ -15,7 +19,7 @@ This project is a web application built using React, showcasing the use of React
 - **User Management**: Handle user profiles and authentication.
 
 
-## Installation
+## 🛠️ Installation
 
 1. Clone the repository:
    ```bash
@@ -27,3 +31,8 @@ This project is a web application built using React, showcasing the use of React
 To run the application locally, execute the following command:
   ```bash
   npm run dev
+  ```
+
+This will start the development server, and you can access the application at `http://localhost:5173/`
+
+
